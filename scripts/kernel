@@ -1,0 +1,5 @@
+#!/bin/sh
+kern="$(uname -r)"
+icon=" "
+
+echo -e "^c#e3c78a^$icon^c#b2b2b2^$kern"
